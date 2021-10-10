@@ -153,8 +153,3 @@ a:hover {
 input[type="submit"] {
   display: block;
 }
-
-html[data-theme="light"] {
-  color: black !important;
-  background-color: whitesmoke !important;
-}
