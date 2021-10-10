@@ -78,6 +78,21 @@ button {
 	margin-top: 5px;
 }
 
+input {
+  padding: 10px;
+  font-size: 15px;
+	background-color: #191919;
+  font-family: 'Alliance No 1 Bold', sans-serif;
+  outline: none;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+	text-transform: uppercase;
+	font-weight: 600;
+	margin-top: 5px;
+}
+
 .frcss_card button {
 	color: #7143f1 !important;
 }
