@@ -113,12 +113,12 @@ textarea {
 }
 
 button:hover,
-input[type="submit"] {
+input[type="submit"]:hover {
 	background-color: #101212;
 }
 
 button:active,
-input[type="submit"] {
+input[type="submit"]:hover {
 	background-color: #141414;
 }
 
