@@ -93,15 +93,18 @@ input {
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   text-transform: uppercase;
+  font-weight: 500;
   opacity: 1; /* Firefox */
 }
 
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
   text-transform: uppercase;
+  font-weight: 500;
 }
 
 ::-ms-input-placeholder { /* Microsoft Edge */
   text-transform: uppercase;
+  font-weight: 500;
 }
 
 .frcss_card button {
