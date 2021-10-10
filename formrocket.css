@@ -91,9 +91,12 @@ input {
 	margin-top: 5px;
 }
 
-input::placeholder {
+input::placeholder,
+input::-webkit-input-placeholder,
+input::-moz-placeholder {
   text-transform: capitalize;
 }
+
 
 .frcss_card button {
 	color: #7143f1 !important;
