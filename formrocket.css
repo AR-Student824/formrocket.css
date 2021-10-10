@@ -137,6 +137,10 @@ pre code {
 	border-radius: 0 !important;
 }
 
+pre {
+  padding: 10px !important;
+}
+
 a {
   color: #7143f1;
   text-decoration: none;
