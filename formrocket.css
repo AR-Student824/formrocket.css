@@ -79,7 +79,8 @@ input[type="submit"] {
 	margin-top: 5px;
 }
 
-input {
+input,
+textarea {
   padding: 7px;
   font-size: 15px;
 	background-color: #191919;
