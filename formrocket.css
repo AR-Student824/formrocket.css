@@ -88,7 +88,7 @@ input {
   border: none;
   border-radius: 3px;
   color: white;
-  cursor: pointer;
+  cursor: none;
 	text-transform: uppercase;
 	font-weight: 600;
 	margin-top: 5px;
