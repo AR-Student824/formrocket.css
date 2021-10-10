@@ -139,6 +139,11 @@ pre code {
 
 a {
   color: #7143f1;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7c51f3;
 }
 
 input[type="submit"] {
