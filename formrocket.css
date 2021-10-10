@@ -91,9 +91,9 @@ input {
 	margin-top: 5px;
 }
 
-input::placeholder,
-input::-webkit-input-placeholder,
-input::-moz-placeholder {
+::placeholder,
+::-webkit-input-placeholder,
+::-moz-placeholder {
   text-transform: capitalize;
 }
 
