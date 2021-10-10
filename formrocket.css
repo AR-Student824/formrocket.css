@@ -136,3 +136,7 @@ pre code {
 a {
   color: #7143f1;
 }
+
+input[type="submit"] {
+  display: block;
+}
