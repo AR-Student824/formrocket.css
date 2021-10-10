@@ -43,12 +43,13 @@
 		<code>some_code('cool right?')</code>
 		<pre><code>also_some_code('even cooler!')</code></pre>
 		<h2>Form elements</h2>
-		<p>A form can be invoked with the <code>form</code> element. This form posts to <a href="https://www.formrocket.me">FormRocket</a></p>
-		<form>
+		<p>A form can be invoked with the <code>form</code> element. This form posts to <a href="https://www.formrocket.me">FormRocket</a>, but you can make it post anywhere with the <code>action</code> property</p>
+		<form action="" method="POST">
 			<p><b>Name*</b></p>
 			<input name="name" placeholder="Spiderman Al' Batman" required />
 			<p><b>Essay on chocolate*</b></p>
 			<textarea name="essay" placeholder="yummy." required></textarea>
+			<input type="submit" />
 		</form>
 		<script type="text/javascript" src="script.js"></script>
   </body>
