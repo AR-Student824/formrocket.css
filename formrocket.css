@@ -91,6 +91,10 @@ input {
 	margin-top: 5px;
 }
 
+input::placeholder {
+  text-transform: capitalize;
+}
+
 .frcss_card button {
 	color: #7143f1 !important;
 }
