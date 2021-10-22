@@ -37,7 +37,7 @@ h3 {
   color: inherit;
   text-decoration: none;
   background-color: #161616;
-  border-radius: 6px;
+  border-radius: 10px;
 }
 
 .frcss_card {
@@ -110,7 +110,8 @@ textarea {
   font-weight: 500;
 }
 
-.frcss_card button {
+.frcss_card button,
+.frcss_card input[type="submit"] {
 	color: #7143f1 !important;
 }
 
