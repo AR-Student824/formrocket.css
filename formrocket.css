@@ -154,3 +154,7 @@ a:hover {
 input[type="submit"] {
   display: block;
 }
+
+.purple {
+  color: #7143f1;
+}
